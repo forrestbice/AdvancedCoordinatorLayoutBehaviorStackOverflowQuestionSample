@@ -20,7 +20,7 @@
             app:expandedTitleGravity="bottom|center_horizontal"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
-            <!-- This is just a placeholder ImageView here to allow the CollpasingToolbarLayout to
+            <!-- This is just a placeholder ImageView here to allow the CollapsingToolbarLayout to
             expand-->
             <ImageView
                 android:layout_width="match_parent"
